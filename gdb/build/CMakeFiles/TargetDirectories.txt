@@ -1,0 +1,5 @@
+/home/nico/lab-informatica-industriale/assegnamenti/assegnamento_gdb_valgrind_cmake-nicolopiccoli/gdb/build/CMakeFiles/gdb1.dir
+/home/nico/lab-informatica-industriale/assegnamenti/assegnamento_gdb_valgrind_cmake-nicolopiccoli/gdb/build/CMakeFiles/gdb2.dir
+/home/nico/lab-informatica-industriale/assegnamenti/assegnamento_gdb_valgrind_cmake-nicolopiccoli/gdb/build/CMakeFiles/gdb3.dir
+/home/nico/lab-informatica-industriale/assegnamenti/assegnamento_gdb_valgrind_cmake-nicolopiccoli/gdb/build/CMakeFiles/edit_cache.dir
+/home/nico/lab-informatica-industriale/assegnamenti/assegnamento_gdb_valgrind_cmake-nicolopiccoli/gdb/build/CMakeFiles/rebuild_cache.dir
