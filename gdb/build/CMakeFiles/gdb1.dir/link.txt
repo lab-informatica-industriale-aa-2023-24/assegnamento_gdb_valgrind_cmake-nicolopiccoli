@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/gdb1.dir/src/gdb1.c.o -o gdb1 

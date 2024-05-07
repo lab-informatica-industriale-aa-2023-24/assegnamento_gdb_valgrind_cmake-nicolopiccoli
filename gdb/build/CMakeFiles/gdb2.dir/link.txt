@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/gdb2.dir/src/gdb2.c.o -o gdb2 
